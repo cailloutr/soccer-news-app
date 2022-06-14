@@ -3,8 +3,8 @@
     <color name="deep_orange_200">#ffab91</color>
     <color name="deep_orange_500">#ff5722</color>
     <color name="deep_orange_700">#e64a19</color>
-    <color name="amber_200">#ffe082</color>
-    <color name="amber_700">#ffa000</color>
+    <color name="cyan_200">#80deea</color>
+    <color name="cyan_700">#0097a7</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
 </resources>
