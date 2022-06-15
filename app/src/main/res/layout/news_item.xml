@@ -18,7 +18,7 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
-            android:src="@color/deep_orange_200"
+            android:src="@color/pink_light"
             android:contentDescription="@string/cd_news_image" />
 
         <com.google.android.material.textview.MaterialTextView

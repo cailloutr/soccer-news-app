@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="deep_orange_200">#ffab91</color>
-    <color name="deep_orange_500">#ff5722</color>
-    <color name="deep_orange_700">#e64a19</color>
-    <color name="cyan_200">#80deea</color>
-    <color name="cyan_700">#0097a7</color>
+    <color name="pink_light">#ff6090</color>
+    <color name="pink_500">#e91e63</color>
+    <color name="pink_dark">#b0003a</color>
+    <color name="purple_200">#ce93d8</color>
+    <color name="purple_dark">#9c64a6</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="favorite_active">#e91e63</color>
+    <color name="favorite_inactive">#FF000000</color>
+
+
 </resources>
